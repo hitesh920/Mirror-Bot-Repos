@@ -1,8 +1,8 @@
 # mirror-bot-repos
 all repos in one place
 
-https://github.com/iamLiquidX/MirrorX 
+1) https://github.com/iamLiquidX/MirrorX 
 
-https://github.com/KenHV/Mirror-Bot
+2) https://github.com/KenHV/Mirror-Bot
 
-https://github.com/breakdowns/slam-mirrorbot
+3) https://github.com/breakdowns/slam-mirrorbot
