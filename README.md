@@ -1,5 +1,5 @@
 # mirror-bot-repos
-all repos in one place
+all good repos in one place
 
 1) https://github.com/iamLiquidX/MirrorX 
 
