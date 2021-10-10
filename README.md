@@ -8,3 +8,5 @@ all good repos in one place
 3) https://github.com/breakdowns/slam-mirrorbot
 
 4) https://github.com/lzzy12/python-aria-mirror-bot
+
+5) https://github.com/anasty17/mirror-leech-telegram-bot
